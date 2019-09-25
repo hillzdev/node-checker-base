@@ -1,0 +1,7 @@
+{
+    "threads": 10,
+    "combo": "./combo.txt",
+    "proxy": "./proxy.txt",
+    "hits": "./hits.txt",
+    "changeProxyOnRetry": true
+}
